@@ -1,6 +1,10 @@
-# MirrorNotes
+# <img src="mirrornotes_icon256.png" width="40" height="40" align="center"> MirrorNotes
 
 > *Discover yourself through the patterns in your thoughts*
+
+<p align="center">
+  <img src="mirrornotes.png" width="300" alt="MirrorNotes Screenshot">
+</p>
 
 MirrorNotes is an introspective iOS journaling app that uses AI to help you understand yourself better through a progressive reflection system.
 
