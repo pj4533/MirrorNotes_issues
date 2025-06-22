@@ -8,6 +8,12 @@
 
 MirrorNotes is an introspective iOS journaling app that uses AI to help you understand yourself better through a progressive reflection system.
 
+<p align="center">
+  <a href="https://testflight.apple.com/join/b5qkZ6sv" style="font-size: 24px; font-weight: bold;">
+    🚀 Join the Beta on TestFlight
+  </a>
+</p>
+
 ## How It Works
 
 MirrorNotes creates a journey of self-discovery through four interconnected layers:
